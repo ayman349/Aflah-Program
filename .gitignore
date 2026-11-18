@@ -4,3 +4,4 @@ node_modules
 .env.local
 storage
 *.tsbuildinfo
+!.env.example
